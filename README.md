@@ -1,4 +1,4 @@
-# miniature-fortnight
-## creating a repository
-### test 1
+# Example of README.md
+## miniature-fortnight
+### creating a repository_test 1
 *for Katerina*
